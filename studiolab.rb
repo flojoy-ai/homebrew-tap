@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-cask 'studiolab' do
+cask 'flojoy-studiolab' do
   version '0.0.1' # Specify the version you want to download
   # sha256 "..."   # Add the SHA256 hash of the release, if available
 

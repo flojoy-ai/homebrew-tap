@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 cask 'flojoy-studio' do
-  version '0.2.3' # Specify the version you want to download
+  version '0.4.0' # Specify the version you want to download
   # sha256 "..."   # Add the SHA256 hash of the release, if available
 
   url "https://github.com/flojoy-ai/studio/releases/download/v#{version}/Flojoy-Studio-#{version}-universal.dmg"
